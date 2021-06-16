@@ -21,14 +21,13 @@ How to reach me:
 
 ### :zap: GitHub Stats
 
-<center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustocdias&hide=html&layout=compact&theme=dark" /></td>
-        <td><img width="480px" align="left" src="https://github-readme-stats.vercel.app/api?username=augustocdias&hide=html&layout=compact&theme=dark"/></td>
+        <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustocdias&hide=html&layout=compact&theme=dark" /></td>
+        <td><img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=augustocdias&hide=html&layout=compact&theme=dark"/></td>
     </tr>   
   </table>
-</center>
+
 
 [linkedin]: https://www.linkedin.com/in/augustodias/
 [stackoverflow]: https://stackoverflow.com/users/684562/augusto
