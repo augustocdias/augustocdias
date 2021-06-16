@@ -25,7 +25,7 @@ How to reach me:
   <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustocdias&hide=html&layout=compact&theme=dark" /></td>
-        <td><img width="490px" align="left" src="https://github-readme-stats.vercel.app/api?username=augustocdias&hide=html&layout=compact&theme=dark"/></td>
+        <td><img width="480px" align="left" src="https://github-readme-stats.vercel.app/api?username=augustocdias&hide=html&layout=compact&theme=dark"/></td>
     </tr>   
   </table>
 </center>
