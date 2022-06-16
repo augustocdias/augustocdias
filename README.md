@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I'm Augusto. I'm a software engineer. Welcome to my gh page! 
 
-- 🔭 I’m currently working in ...
+- 🔭 I’m currently working in Wire
 - 🌱 I’m currently working with and learning **Rust**
 - ⚡ Fun fact **I love football (soccer if you're American), gaming and cooking.**
 
